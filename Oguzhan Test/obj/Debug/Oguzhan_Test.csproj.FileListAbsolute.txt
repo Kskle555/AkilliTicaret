@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Oguzhan Test\Oguzhan Test\bin\Debug\Oguzhan Test.exe.config
+C:\Users\User\source\repos\Oguzhan Test\Oguzhan Test\bin\Debug\Oguzhan Test.exe
+C:\Users\User\source\repos\Oguzhan Test\Oguzhan Test\bin\Debug\Oguzhan Test.pdb
+C:\Users\User\source\repos\Oguzhan Test\Oguzhan Test\obj\Debug\Oguzhan_Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Oguzhan Test\Oguzhan Test\obj\Debug\Oguzhan_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Oguzhan Test\Oguzhan Test\obj\Debug\Oguzhan_Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Oguzhan Test\Oguzhan Test\obj\Debug\Oguzhan Test.exe
+C:\Users\User\source\repos\Oguzhan Test\Oguzhan Test\obj\Debug\Oguzhan Test.pdb
